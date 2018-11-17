@@ -18,6 +18,11 @@ $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
+// own scss
+$link-color: #ace9f7;
+$link-color-hover: #47cae8;
+// end own scss
+
 $table-text-align: left !default;
 
 // Width of the content area
