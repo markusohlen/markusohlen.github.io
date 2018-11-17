@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "About me"
+title:  "Blog"
 date:   2018-11-16 08:39:39 -0600
 categories: jekyll update
 comments: true
 ---
-My name is Markus Öhlen and i'm born in a town called Falun in Sweden. Right now i've moved to Kalmar and studying programming. 
 
-I really like to go cross country skiing and drive scooters in the mountains. I also like to fish, especially flyfishing, or just hang  out with my friends or family.
-
+This is another blog post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at velit ut orci gravida dapibus vitae consectetur mi. Pellentesque varius ut quam quis commodo. Donec venenatis ante vitae nisi blandit, eu ultricies justo convallis. Cras lobortis, nisl sed consectetur porttitor, odio ex venenatis tortor, in accumsan elit dui eu sem. Ut convallis nibh id ex placerat, non varius leo condimentum. Sed eget tortor condimentum, sodales quam quis, ornare lorem. Aenean viverra et lectus in cursus. Morbi ultrices iaculis nunc. Integer fringilla leo urna, vitae vulputate sapien dictum id. Vestibulum consequat enim nulla, et aliquam eros luctus nec. Nunc mattis lorem vitae felis volutpat blandit et a diam. In sodales id massa vel porttitor. Nunc sed ipsum id est tempus fringilla ut a risus. Ut condimentum mattis sapien id dictum.
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
