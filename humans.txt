@@ -1,0 +1,26 @@
+/* TEAM */
+    Chef: Markus Öhlén
+	Contact: mackan.1999 [at] live.se
+	Twitter: @OhlenMarkus
+	From: Falun, Dalarna, Sweden
+
+	UI developer: Markus Öhlén
+	Twitter: @OhlenMarkus
+	From: Falun, Dalarna, Sweden
+
+	Standard Man: Markus Öhlén
+	Twitter: @OhlenMarkus
+	From: Falun, Dalarna, Sweden
+
+	Web designer: Markus Öhlén
+	Twitter: @OhlenMarkus
+	From: Falun, Dalarna, Sweden
+
+/* THANKS */
+
+
+/* SITE */
+Last update: 2018/11/17
+	Language: English
+	Doctype: HTML5
+	IDE: Visual studio code
