@@ -20,7 +20,7 @@
 
 
 /* SITE */
-Last update: 2018/11/17
+Last update: 2018/11/18
 	Language: English
 	Doctype: HTML5
 	IDE: Visual studio code
