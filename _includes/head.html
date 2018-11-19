@@ -6,6 +6,14 @@
     {% include collecttags.html %}
   {% endif %}
 
+  <meta property="og:title" content="Mackan" />
+  <meta property="og:type" content="site" />
+  <meta property="og:url" content="{{site.url}}" />
+  <meta property="og:image:url" content="../logo.png" />
+  <meta property="og:image:type" content="png" />
+  <meta property="og:image:width" content="700" />
+  <meta property="og:description" content="Markus site" />
+
  {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
