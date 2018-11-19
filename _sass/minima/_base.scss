@@ -229,22 +229,23 @@ pre {
  * Tables
  */
 table {
-  margin-bottom: $spacing-unit;
+  // margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
+  box-shadow: 15px 15px 20px 8px darken($grey-color-light, 40%);
   tr {
-    &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
+    &:nth-child(odd) {
+      background-color: lighten($grey-color-light, 5%);
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: lighten($grey-color-light, 3%);
+    background-color: $grey-color-light;
     border: 1px solid darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }
